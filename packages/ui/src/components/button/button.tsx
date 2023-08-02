@@ -96,6 +96,7 @@ const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
         className={clx(buttonVariants({ variant, size, format }), className)}
       >
         {children}
+        {"test"}
       </Component>
     )
   }
