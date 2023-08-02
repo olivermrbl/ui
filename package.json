@@ -39,6 +39,7 @@
     "configs/*"
   ],
   "dependencies": {
-    "@changesets/cli": "^2.26.1"
+    "@changesets/cli": "^2.26.1",
+    "chromatic": "^6.20.0"
   }
 }
